@@ -38,6 +38,3 @@ Future Enhancements
 
 Contributing
 Open to contributions via issues & pull requests.
-
-License
-MIT License.
